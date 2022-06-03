@@ -23,6 +23,7 @@ if (resultado === true)
             window.alert("vamos a realizarla igualmente")
         }
     
+        
 
 
 
